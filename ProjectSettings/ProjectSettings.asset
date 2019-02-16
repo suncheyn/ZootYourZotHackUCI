@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: c37a9f664313c4e09812e3302e801a56
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -598,7 +598,7 @@ PlayerSettings:
   luminVersion:
     m_VersionCode: 1
     m_VersionName: 
-  facebookSdkVersion: 
+  facebookSdkVersion: 7.10.1
   facebookAppId: 
   facebookCookies: 1
   facebookLogging: 1
@@ -608,7 +608,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: 79a1b5f2-f151-4854-8276-06903fd5de3c
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: Zoot Your Zot
   organizationId: alexscott64
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
